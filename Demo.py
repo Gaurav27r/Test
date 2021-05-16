@@ -1,8 +1,9 @@
-h= input("are you hungry?")
-if h=="yes":
+h = input("are you hungry?")
+if h == "yes":
     print("Eat food")
-    print("oracle")
-    print("aaa")
-    print("obbbb")
-else: 
+
+
+else:
     print("Sleep")
+    print("water")
+    print("wddddd")
